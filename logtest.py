@@ -15,5 +15,5 @@ print "Errori: " + str(errorRDD.count())
 print "Warning: " + str(warningRDD.count())
 print "Union: 1" + str(badRDD.count())
 
-for line in badRDD.take(1):
+for line in badRDD.take(10):
     print line
