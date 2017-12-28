@@ -1,16 +1,4 @@
-error     warning     warning     warning error
-warning   warning     warning error
-error  warning     warning error
-warning
-error   error   error
-warning
+errorerror error errorwarning 
 error
-warning
 error
-warning
-error
-warning
-warning
-warning
-warning
 warning
